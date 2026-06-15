@@ -58,16 +58,16 @@
 
 <p align="center">
   <a href="https://github.com/kiki007-lab">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=kiki007-lab&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1F1410&title_color=C9A84C&icon_color=C9A84C&text_color=F5F0EB" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=kiki007-lab&show_icons=true&count_private=true&hide_border=true&bg_color=0A0A0A&title_color=C9A84C&icon_color=C9A84C&text_color=F5F0EB" />
   </a>
   <a href="https://github.com/kiki007-lab">
-    <img height="180" src="https://streak-stats.demolab.com?user=kiki007-lab&hide_border=true&background=1F1410&stroke=C9A84C&ring=C9A84C&fire=8B0000&currStreakNum=F5F0EB&sideNums=F5F0EB&currStreakLabel=C9A84C&sideLabels=C9A84C&dates=B0A292" />
+    <img height="180" src="https://streak-stats.demolab.com?user=kiki007-lab&hide_border=true&background=0A0A0A&stroke=C9A84C&ring=C9A84C&fire=8B0000&currStreakNum=F5F0EB&sideNums=F5F0EB&currStreakLabel=C9A84C&sideLabels=B8C1C8&dates=B8C1C8" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/kiki007-lab">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiki007-lab&layout=compact&hide_border=true&bg_color=1F1410&title_color=C9A84C&text_color=F5F0EB&langs_count=8" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiki007-lab&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=C9A84C&text_color=F5F0EB&langs_count=8" />
   </a>
 </p>
 
