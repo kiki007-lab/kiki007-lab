@@ -1,6 +1,7 @@
 ![Hybrid Architect Lab — Vintage soul. Modern precision.](profile-hero.png)
 
-<h3 align="center">Hybrid Architect — building at the convergence of precision and intention.</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=28&pause=1500&color=C9A84C&background=00000000&center=true&vCenter=true&width=940&height=80&lines=Hybrid+Architect;Computational+engineering+%E2%80%A2+Parametric+CAD;Applied+ML+%E2%80%A2+Visual+identity+systems;Open+to+remote+roles+worldwide" alt="Hybrid Architect — typing animation" /></p>
 
 <p align="center">
   Computational engineering · Parametric CAD · Applied ML · Visual identity systems
