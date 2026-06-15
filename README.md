@@ -27,13 +27,13 @@
 <p align="center"><b>3D & Parametric CAD</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Blender-0A0A0A?style=for-the-badge&logo=blender&logoColor=F5F0EB" />
-  <img src="https://img.shields.io/badge/Onshape-0A0A0A?style=for-the-badge&logoColor=F5F0EB" />
+  <img src="https://img.shields.io/badge/🔩_Onshape-0A0A0A?style=for-the-badge" />
 </p>
 
 <p align="center"><b>Data & ML</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-2B1E18?style=for-the-badge&logo=numpy&logoColor=C9A84C" />
-  <img src="https://img.shields.io/badge/Matplotlib-2B1E18?style=for-the-badge&logoColor=C9A84C" />
+  <img src="https://img.shields.io/badge/📊_Matplotlib-2B1E18?style=for-the-badge" />
 </p>
 
 <p align="center"><b>Web</b></p>
@@ -46,10 +46,10 @@
 
 <p align="center"><b>Design & Tools</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Canva-0A0A0A?style=for-the-badge&logoColor=F5F0EB" />
+  <img src="https://img.shields.io/badge/🎨_Canva-0A0A0A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma&logoColor=F5F0EB" />
   <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=8B0000" />
-  <img src="https://img.shields.io/badge/VS_Code-0A0A0A?style=for-the-badge&logoColor=B8C1C8" />
+  <img src="https://img.shields.io/badge/💻_VS_Code-0A0A0A?style=for-the-badge" />
 </p>
 
 ---
