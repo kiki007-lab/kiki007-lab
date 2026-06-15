@@ -13,6 +13,47 @@
 
 ---
 
+## ⚙️ Tech Stack
+
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-1F1410?style=for-the-badge&logo=python&logoColor=C9A84C" />
+  <img src="https://img.shields.io/badge/TypeScript-1F1410?style=for-the-badge&logo=typescript&logoColor=C9A84C" />
+  <img src="https://img.shields.io/badge/C++-1F1410?style=for-the-badge&logo=cplusplus&logoColor=C9A84C" />
+  <img src="https://img.shields.io/badge/JavaScript-1F1410?style=for-the-badge&logo=javascript&logoColor=C9A84C" />
+  <img src="https://img.shields.io/badge/HTML-1F1410?style=for-the-badge&logo=html5&logoColor=C9A84C" />
+</p>
+
+<p align="center"><b>3D & Parametric CAD</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Blender-0A0A0A?style=for-the-badge&logo=blender&logoColor=F5F0EB" />
+  <img src="https://img.shields.io/badge/Onshape-0A0A0A?style=for-the-badge&logo=onshape&logoColor=F5F0EB" />
+</p>
+
+<p align="center"><b>Data & ML</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-2B1E18?style=for-the-badge&logo=numpy&logoColor=C9A84C" />
+  <img src="https://img.shields.io/badge/Matplotlib-2B1E18?style=for-the-badge&logo=matplotlib&logoColor=C9A84C" />
+</p>
+
+<p align="center"><b>Web</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-1F1410?style=for-the-badge&logo=nextdotjs&logoColor=F5F0EB" />
+  <img src="https://img.shields.io/badge/React-1F1410?style=for-the-badge&logo=react&logoColor=C9A84C" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-1F1410?style=for-the-badge&logo=tailwindcss&logoColor=C9A84C" />
+  <img src="https://img.shields.io/badge/Supabase-1F1410?style=for-the-badge&logo=supabase&logoColor=C9A84C" />
+</p>
+
+<p align="center"><b>Design & Tools</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-0A0A0A?style=for-the-badge&logo=canva&logoColor=F5F0EB" />
+  <img src="https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma&logoColor=F5F0EB" />
+  <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=8B0000" />
+  <img src="https://img.shields.io/badge/VS_Code-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=B8C1C8" />
+</p>
+
+---
+
 ## About
 
 I work across four disciplines that most people treat as separate:
