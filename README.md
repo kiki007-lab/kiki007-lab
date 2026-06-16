@@ -13,16 +13,16 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/rizky-m-b4904838a">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-1F1410?style=for-the-badge" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-1F1410?style=for-the-badge&logo=linkedin&logoColor=2E8DEA" alt="LinkedIn" />
   </a>
   <a href="mailto:rizky.meilandi007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1F1410?style=for-the-badge&logo=gmail&logoColor=C9A84C" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-1F1410?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
   <a href="https://www.behance.net/rizkymeiland">
-    <img src="https://img.shields.io/badge/Behance-1F1410?style=for-the-badge&logo=behance&logoColor=C9A84C" alt="Behance" />
+    <img src="https://img.shields.io/badge/Behance-1F1410?style=for-the-badge&logo=behance&logoColor=4D8DFF" alt="Behance" />
   </a>
   <a href="https://github.com/kiki007-lab/hybrid-architect-lab">
-    <img src="https://img.shields.io/badge/Portfolio-1F1410?style=for-the-badge&logo=github&logoColor=F5F0EB" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-1F1410?style=for-the-badge&logo=github&logoColor=FAFAFA" alt="Portfolio" />
   </a>
 </p>
 
@@ -32,11 +32,11 @@
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-1F1410?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/TypeScript-1F1410?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/C++-1F1410?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/Python-1F1410?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/TypeScript-1F1410?style=for-the-badge&logo=typescript&logoColor=4FA1FF" />
+  <img src="https://img.shields.io/badge/C++-1F1410?style=for-the-badge&logo=cplusplus&logoColor=5099D3" />
   <img src="https://img.shields.io/badge/JavaScript-1F1410?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML-1F1410?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/HTML5-1F1410?style=for-the-badge&logo=html5&logoColor=E34F26" />
 </p>
 
 <p align="center"><b>3D & Parametric CAD</b></p>
@@ -47,16 +47,16 @@
 
 <p align="center"><b>Data & ML</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-2B1E18?style=for-the-badge&logo=numpy&logoColor=013243" />
-  <img src="https://img.shields.io/badge/📊_Matplotlib-2B1E18?style=for-the-badge&logoColor=C9A84C" />
+  <img src="https://img.shields.io/badge/NumPy-2B1E18?style=for-the-badge&logo=numpy&logoColor=4DABCF" />
+  <img src="https://img.shields.io/badge/📊_Matplotlib-2B1E18?style=for-the-badge&logoColor=F5F0EB" />
 </p>
 
 <p align="center"><b>Web</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-1F1410?style=for-the-badge&logo=nextdotjs&logoColor=F5F0EB" />
+  <img src="https://img.shields.io/badge/Next.js-1F1410?style=for-the-badge&logo=nextdotjs&logoColor=FAFAFA" />
   <img src="https://img.shields.io/badge/React-1F1410?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-1F1410?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
-  <img src="https://img.shields.io/badge/Supabase-1F1410?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-1F1410?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Supabase-1F1410?style=for-the-badge&logo=supabase&logoColor=3FCF8E" />
 </p>
 
 <p align="center"><b>Design & Tools</b></p>
