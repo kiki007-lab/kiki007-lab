@@ -11,6 +11,18 @@
   Based in South Tangerang, Indonesia · Open to remote roles worldwide
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/rizky-m-b4904838a">
+    <img src="https://img.shields.io/badge/LinkedIn-1F1410?style=for-the-badge&logo=linkedin&logoColor=C9A84C" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rizky.meilandi007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1F1410?style=for-the-badge&logo=gmail&logoColor=C9A84C" alt="Email" />
+  </a>
+  <a href="https://github.com/kiki007-lab/hybrid-architect-lab">
+    <img src="https://img.shields.io/badge/Portfolio-1F1410?style=for-the-badge&logo=github&logoColor=F5F0EB" alt="Portfolio" />
+  </a>
+</p>
+
 ---
 
 ## ⚙️ Tech Stack
