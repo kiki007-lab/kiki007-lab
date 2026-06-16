@@ -88,6 +88,19 @@
 
 ---
 
+## 🏛️ Featured Work
+
+<p align="center">
+  <a href="https://github.com/kiki007-lab/hybrid-architect-lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiki007-lab&repo=hybrid-architect-lab&bg_color=1F1410&title_color=C9A84C&icon_color=C9A84C&text_color=F5F0EB&border_color=C9A84C&border_radius=10" />
+  </a>
+  <a href="https://github.com/kiki007-lab/ratio-engine-ts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiki007-lab&repo=ratio-engine-ts&bg_color=1F1410&title_color=C9A84C&icon_color=C9A84C&text_color=F5F0EB&border_color=C9A84C&border_radius=10" />
+  </a>
+</p>
+
+---
+
 ## About
 
 I work across four disciplines that most people treat as separate:
