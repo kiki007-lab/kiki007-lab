@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/rizky-m-b4904838a">
-    <img src="https://img.shields.io/badge/LinkedIn-1F1410?style=for-the-badge&logo=linkedin&logoColor=2E8DEA" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/💼_LinkedIn-1F1410?style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="mailto:rizky.meilandi007@gmail.com">
     <img src="https://img.shields.io/badge/Email-1F1410?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
